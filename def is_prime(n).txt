@@ -1,3 +1,5 @@
+Nashith vp <3
+
 def is_prime(n):
     if n in [2, 3]:
         return True
